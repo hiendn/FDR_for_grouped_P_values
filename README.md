@@ -1,1 +1,1 @@
-# FDR_for_grouped_P_values
+# False discovery rate control for grouped and discrete p-values
